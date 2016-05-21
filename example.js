@@ -1,0 +1,3 @@
+const openWebStorm = require('.');
+
+openWebStorm('.');
