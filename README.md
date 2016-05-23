@@ -1,4 +1,7 @@
 # open-webstorm
+[![Demo](https://raw.githubusercontent.com/mooyoul/open-webstorm/master/images/demo.gif)](https://raw.githubusercontent.com/mooyoul/open-webstorm/master/images/demo.gif)
+
+
 [![Dependency Status](https://david-dm.org/mooyoul/open-webstorm.svg)](https://david-dm.org/mooyoul/open-webstorm)
 [![devDependency Status](https://david-dm.org/mooyoul/open-webstorm/dev-status.svg)](https://david-dm.org/mooyoul/open-webstorm#info=devDependencies)
 [![Known Vulnerabilities](https://snyk.io/test/github/mooyoul/open-webstorm/badge.svg)](https://snyk.io/test/github/mooyoul/open-webstorm)
