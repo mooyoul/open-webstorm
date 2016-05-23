@@ -40,7 +40,7 @@ Type: `number`, `string`
 The port which is Webstorm is listening.
 If not specified, open-webstorm will find this port.
 
-#### options.port
+#### options.token
 *Optional*
 Type: `number`, `string`
 
